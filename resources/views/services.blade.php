@@ -16,8 +16,9 @@
         </style>
     </head>
     <body>
-        <div class="container">
-            <h3>Services</h3>
+        <div class="container text-center">
+            <h1>Services</h1>
+            <p>questa è la pagina dei nostri servizi</p>
         </div>
     </body>
 </html>

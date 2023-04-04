@@ -16,8 +16,9 @@
         </style>
     </head>
     <body>
-        <div class="container">
-            <h3>About Us</h3>
+        <div class="container text-center">
+            <h1>About Us</h1>
+            <p>questa è la pagina about us</p>
         </div>
     </body>
 </html>

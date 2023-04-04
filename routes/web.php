@@ -17,14 +17,14 @@ Route::get('/', function () {
     return view('home');
 });
 
-// Route::get('/', function () {
-//     return view('contacts');
-// });
+Route::get('/contacts', function () {
+    return view('contacts');
+});
 
-// Route::get('/', function () {
-//     return view('about');
-// });
+Route::get('/about', function () {
+    return view('about');
+});
 
-// Route::get('/', function () {
-//     return view('services');
-// });
+Route::get('/services', function () {
+    return view('services');
+});

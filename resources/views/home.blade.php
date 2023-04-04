@@ -13,12 +13,30 @@
             body {
                 font-family: 'Nunito', sans-serif;
             }
+            button {
+                padding: 10px;
+                background-color: blue;
+                color: white;
+                border-radius: 15px;
+            }
         </style>
     </head>
     <body>
         <div class="container text-center">
             <h1>Welcome Laravel</h1>
             <p>Finalmente ti ho installato</p>
+            <div class="links">
+                <button>
+                    <a href="/contacts">Contacts</a>
+                </button>
+                <button>
+                    <a href="/about">About</a>
+                </button>
+                <button>
+                    <a href="/services">Services</a>
+                </button>
+            </div>
         </div>
+        
     </body>
 </html>

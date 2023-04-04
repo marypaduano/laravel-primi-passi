@@ -17,7 +17,8 @@
     </head>
     <body>
         <div class="container text-center">
-            <h3>Contacts</h3>
+            <h1>Contacts</h1>
+            <p>questa è la pagina dei nostri contatti</p>
         </div>
     </body>
 </html>
